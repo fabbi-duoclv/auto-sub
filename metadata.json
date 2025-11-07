@@ -1,0 +1,5 @@
+{
+  "name": "Video Auto-Subtitler",
+  "description": "An application to automatically generate and translate subtitles for short videos. It extracts text, its position, and timing using AI, then generates a styled .ass subtitle file.",
+  "requestFramePermissions": []
+}
